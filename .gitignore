@@ -1,0 +1,25 @@
+# Model artifacts
+phi2-agent-adapter/
+phi2-agent-qlora/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Colab Drive mounts / temp
+/content/
+drive/
+
+# OS
+.DS_Store
+Thumbs.db
